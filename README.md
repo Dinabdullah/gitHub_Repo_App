@@ -7,7 +7,7 @@ This mobile application provides a secure and user-friendly platform for fetchin
 
 • **Detailed Repository Information:** Dive deeper into each repository to gain insights into its description, language, creation date, and more.
 
-• ** Error Handling:** gracefully handles potential network or API errors, providing informative messages to keep you informed and in control.
+• **Error Handling:** gracefully handles potential network or API errors, providing informative messages to keep you informed and in control.
 
 ## Technologies Used	
 • **Jetpack Compose:**  Build stunning and responsive UI components.
@@ -35,8 +35,8 @@ This mobile application provides a secure and user-friendly platform for fetchin
 
 ## Screenshots
 <p>
-  <img src="https://github.com/user-attachments/assets/3d4d2006-7e92-4a0b-8c8f-0ec29659064e" alt="Image 1" width="20%""/>
-  <img src="https://github.com/user-attachments/assets/e13abaa9-bc64-4beb-b984-2ea7138f8374) "alt="Image 1" width="20%""/>
+  <img src="https://github.com/user-attachments/assets/bcb3a13a-96dd-4845-a697-324a643a8b92" alt="Image 1" width="20%""/>
+  <img src="https://github.com/user-attachments/assets/e13abaa9-bc64-4beb-b984-2ea7138f8374 "alt="Image 1" width="20%""/>
 </p>
 <p>
   <img src="https://github.com/user-attachments/assets/8d7f7db2-a9c6-46ba-b16b-f9fa49f1cbdb" alt="Image 1" width="20%""/>
