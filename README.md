@@ -18,6 +18,8 @@ This mobile application provides a secure and user-friendly platform for fetchin
 
 • **Retrofit:** Make efficient and reliable API calls to fetch data from GitHub.
 
+• **Room:** library that provides an abstraction layer over SQLite, making it easier to manage local databases and perform database operations.
+
 • **Coroutines:**  Handle asynchronous operations smoothly, ensuring a smooth user experience.
 
 • **DI:** Promote code modularity and testability with a well-defined DI approach (details to be added once specific DI library is chosen).
