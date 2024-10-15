@@ -22,7 +22,7 @@ This mobile application provides a secure and user-friendly platform for fetchin
 
 • **Coroutines:**  Handle asynchronous operations smoothly, ensuring a smooth user experience.
 
-• **DI:** Promote code modularity and testability with a well-defined DI approach (details to be added once specific DI library is chosen).
+• **DI:** Promote code modularity and testability with a well-defined DI approach (Hilt).
 
 ## Installation
 1.Clone the repository:
